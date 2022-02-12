@@ -1,0 +1,13 @@
+{
+"companyName": "Grail",
+"productName": "WebStar",
+"dataUrl": "WebGL_app_0.9.9.9.9.5_android.data.unityweb",
+"wasmCodeUrl": "WebGL_app_0.9.9.9.9.5_android.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL_app_0.9.9.9.9.5_android.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
